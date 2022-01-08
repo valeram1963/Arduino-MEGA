@@ -9,4 +9,4 @@ The DHT sensor can be even DHT11 or DHT HTTYPE DHT21   // AM2301
 Pin connections ar ein Excel updated:
 1 Connect SDA and SCL between themselfe into the Shield SDA and SCL
 Use Pin 9 Digita to read sensor DHT
-Final to connect LCD Display use I2C
+Final to connect LCD Display use I2C connecting  SDA to Pin 20SDA on Mega and SCL pin21
